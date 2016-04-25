@@ -2,7 +2,7 @@
   "name": "elasticsearch-browser",
   "version": "11.0.1",
   "description": "The official low-level Elasticsearch client, for use in the browser.",
-  "main": "elasticsearch.js",
+  "main": "elasticsearch.angular.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

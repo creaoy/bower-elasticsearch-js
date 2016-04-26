@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/elasticsearch/bower-elasticsearch-js.git"
+    "url": "git://github.com/creaoy/bower-elasticsearch-js.git"
   },
   "author": "Spencer Alger <spencer@spenceralger.com>",
   "license": "Apache 2.0",
